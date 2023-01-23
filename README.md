@@ -40,4 +40,12 @@ i use <a href="#">"npm i react-typed --force"</a> to install React typed Forcefu
 
 ## Deployment url
 
-<a href="#">click here for Demo</a>
+<a href="https://digitechprabhat.netlify.app/">click here for Demo</a>
+
+## Snapshots
+
+![Screenshot (182)](https://user-images.githubusercontent.com/117756490/214131474-fde87f6d-3b08-4efa-a20b-d4fc4893c3f6.png)
+![Screenshot (183)](https://user-images.githubusercontent.com/117756490/214131481-354c5199-334f-450c-a542-cc619abb1b0e.png)
+![Screenshot (184)](https://user-images.githubusercontent.com/117756490/214131484-ba8206e6-2770-410b-8605-291145fe9d86.png)
+![Screenshot (185)](https://user-images.githubusercontent.com/117756490/214131487-0f066965-70e7-4a4b-b3d7-f0e16678b809.png)
+

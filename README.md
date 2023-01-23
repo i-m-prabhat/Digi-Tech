@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# DiGi Tech
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ This is the simple Website using React and Tailwind Css
 
-## Available Scripts
+ i use Below Assets to create this Website
 
-In the project directory, you can run:
+<a href="#react"> React js</a>
 
-### `npm start`
+ <a href="#tailwind">Tailwind CSS</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ <a href="#icon">React icons</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ <a href="#typed">React Typed</a>
 
-### `npm test`
+<h2 id="react">React js</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ i use  React js to create the this website
 
-### `npm run build`
+ i create the React Website Structure Using <a href="#">"npx create-react-app app-name"</a> command
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 id="tailwind">Tailwind CSS</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I use Tailwind CSS to Styled this Website
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+i use first <a href="#">"npm install -D tailwindcss"</a>  to install tailwind css in my react app
 
-### `npm run eject`
+afer this i use <a href="#">"npx tailwindcss init"</a> to initialize the tailwind css configuration
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h2 id="icons">React Icons</h2>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I use React Icons to Add Icons in our react App
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I use <a href="#">"npm i react-icons"</a> command to install React Icons in my Website
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2 id="typed">React Typed</h2>
 
-## Learn More
+I use React Typed To Generate dynamic Text In Our Website
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+i use <a href="#">"npm i react-typed --force"</a> to install React typed Forcefully in our React App
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Deployment url
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="#">click here for Demo</a>

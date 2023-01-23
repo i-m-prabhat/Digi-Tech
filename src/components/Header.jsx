@@ -6,7 +6,7 @@ function Header()
     const [toggle, setToggle] = useState(false);
 
     return (
-        <div className='bg-[#4a62ff] p-4'>
+        <div className='bg-[#2d46ec] p-4'>
             <div className="max-w-[1240px] py-[10px] items-center flex justify-between mx-auto">
                 <div className='text-3xl font-bold'>
                     DiGi Tech
